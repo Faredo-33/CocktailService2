@@ -1,0 +1,37 @@
+{
+    "cocktail1": {
+        "name": "Sex on the beach",
+        "prix": 10,
+        "img": "relative-path-to-the-picture"
+    },
+    "cocktail2": {
+        "name": "Marguarita",
+        "prix": 13,
+        "img": "relative-path-to-the-picture"
+    },
+    "cocktail3": {
+        "name": "Martini",
+        "prix": 8,
+        "img": "relative-path-to-the-picture"
+    },
+    "cocktai14":{
+        "name": "Virgin Mojito",
+        "prix": "13",
+        "image": "https://scally.typepad.com/.a/6a00d8341c676f53ef01a511f5fca8970c-pi"
+      },
+      "cocktail5":{
+        "name": "Bloody Mary",
+        "prix": "13",
+        "image": "https://cocktailcorner.fr/wp-content/uploads/2021/03/Bloody-Mary-1024x683.jpg"
+      },
+      "cocktail16": {
+        "name": "blue lagoon",
+        "prix": "14",
+        "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Blue-Lagoon-Cocktail-007s.jpg"
+      },
+      "cocktail99":{
+        "name": "'Six on the beach'",
+        "prix": "16",
+        "image": "https://www.cocktailmag.fr/media/k2/items/cache/7293a47c0f4cdddd46ff10bcf3d23287_XL.jpg"
+      }
+}
